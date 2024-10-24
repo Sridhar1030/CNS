@@ -6,5 +6,8 @@ https://github.com/FLASH0707/SL/
 
 https://bit.ly/sl215
 
+Nmap installation link:
+https://nmap.org/download.html
+
 # FOR keylogger
 https://bestxsoftware.com/download.html
